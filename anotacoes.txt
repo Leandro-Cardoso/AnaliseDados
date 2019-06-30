@@ -1,0 +1,10 @@
+CHANCE DE ESTAR NO INTERVALO: (media +ou- erro padrao) (nivel de confianca)
+1 * ERRO PADRAO = 68.3%
+    1.65 * ERRO PADRAO = 90%
+    1.66 * ERRO PADRAO = 95%
+2 * ERRO PADRAO = 95.5%
+3 * ERRO PADRAO = 99.7%
+
+COEFICIENTE DE CORELACAO LINEAR DE PEARSON:
+    Se = 0 -> Não existe correlação nenhuma (0%)
+    Se = 1 ou -1 -> Correlação maxima (100%)
