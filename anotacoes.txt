@@ -8,5 +8,3 @@ CHANCE DE ESTAR NO INTERVALO: (media +ou- erro padrao) (nivel de confianca)
 COEFICIENTE DE CORELACAO LINEAR DE PEARSON:
     Se = 0 -> Não existe correlação nenhuma (0%)
     Se = 1 ou -1 -> Correlação maxima (100%)
-
-TESTE
