@@ -1,11 +1,15 @@
 # AnaliseDados
-<p>Programas teste, para a analise de dados. Futuramente será utilizado para IA. (Python) </p>
+<p>
+    Programas teste, para a analise de dados. Futuramente será utilizado para IA. (Python)
+</p>
 
 ## Itens:
-<strong>* Parâmetros de posiçã</strong>o -> posicao.py <br />
-<strong>* Parâmetros de dispersão</strong> -> dispersao.py <br />
-<strong>* Parâmetros de correlação</strong> -> correlacao.py <br />
-<strong>* Vetor de dados</strong> -> vetor.py <br />
+<p>
+    <strong>* Parâmetros de posição</strong> -> posicao.py <br />
+    <strong>* Parâmetros de dispersão</strong> -> dispersao.py <br />
+    <strong>* Parâmetros de correlação</strong> -> correlacao.py <br />
+    <strong>* Vetor de dados</strong> -> vetor.py <br />
+</p>
 
 ## Roteiro:
 
